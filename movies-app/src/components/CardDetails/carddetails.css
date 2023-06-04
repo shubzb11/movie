@@ -1,0 +1,23 @@
+.card-details-page {
+  background-color: gray;
+  min-height: 100vh;
+  padding-top: 45px;
+}
+
+.poster_image {
+  height: 70%;
+  width: 100%;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.card_details_wrapper {
+  height: 500px;
+  width: 300px;
+  border: 4px solid #b2b2b2;
+  border-radius: 15px;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  background-color: #b2b2b2;
+}

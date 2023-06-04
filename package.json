@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "react-axios": "^2.0.6",
+    "react-hook-form": "^7.44.3",
+    "react-router-dom": "^6.11.2"
+  }
+}
